@@ -1,13 +1,13 @@
-.fieldset {
+.field {
   margin-bottom: 20px;
 }
 
-.itemfield {
+.item-field {
   margin-bottom: 10px;
   display: block;
 }
 
-.itemfield:last-child {
+.item-field:last-child {
   margin-bottom: 0;
 }
 
